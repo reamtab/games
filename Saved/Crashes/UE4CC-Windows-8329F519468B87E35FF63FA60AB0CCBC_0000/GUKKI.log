@@ -1,0 +1,586 @@
+﻿Log file open, 06/19/18 13:40:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GUKKI
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1438864751) SRandInit(-1438864751).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.151932
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.934s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Dnopc (192.168.1.60:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.018s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.19-10.40.29:061][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.19-10.40.29:061][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.19-10.40.29:098][  0]LogInit: Computer: DNOPC
+[2018.06.19-10.40.29:098][  0]LogInit: User: Dno
+[2018.06.19-10.40.29:098][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.06.19-10.40.29:098][  0]LogInit: High frequency timer resolution =1.851220 MHz
+[2018.06.19-10.40.29:099][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.06.19-10.40.29:099][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.19-10.40.29:099][  0]LogMemory: Process Physical Memory: 274.90 MB used, 274.90 MB peak
+[2018.06.19-10.40.29:099][  0]LogMemory: Process Virtual Memory: 268.16 MB used, 268.16 MB peak
+[2018.06.19-10.40.29:099][  0]LogMemory: Physical Memory: 7040.00 MB used,  5167.55 MB free, 12207.55 MB total
+[2018.06.19-10.40.29:099][  0]LogMemory: Virtual Memory: 630.09 MB used,  5167.55 MB free, 8388608.00 MB total
+[2018.06.19-10.40.29:137][  0]LogInit: Using OS detected language (ru-RU).
+[2018.06.19-10.40.29:137][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.06.19-10.40.29:142][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.06.19-10.40.30:053][  0]LogStreaming: Display: Took  0.916s to EndInitTextLocalization.
+[2018.06.19-10.40.30:053][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.19-10.40.30:053][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.19-10.40.30:053][  0]LogInit: Setting process to DPI aware
+[2018.06.19-10.40.30:058][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.19-10.40.30:058][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.19-10.40.30:058][  0]LogInit: Setting process to DPI aware
+[2018.06.19-10.40.30:090][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.19-10.40.30:090][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.19-10.40.30:434][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.19-10.40.30:494][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.06.19-10.40.30:494][  0]LogD3D11RHI:       1986/0/5847 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.19-10.40.30:533][  0]LogD3D11RHI:    1. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.06.19-10.40.30:533][  0]LogD3D11RHI:       1986/0/5847 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.06.19-10.40.30:533][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.19-10.40.30:547][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.19-10.40.30:547][  0]LogD3D11RHI:     GPU DeviceId: 0x1299 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.19-10.40.30:547][  0]LogWindows: EnumDisplayDevices:
+[2018.06.19-10.40.30:547][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.06.19-10.40.30:547][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.06.19-10.40.30:547][  0]LogWindows:    2. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.06.19-10.40.30:548][  0]LogWindows:    3. 'NVIDIA GeForce 920M' (P:0 D:0)
+[2018.06.19-10.40.30:548][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.06.19-10.40.30:548][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.06.19-10.40.30:548][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.06.19-10.40.30:548][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2018.06.19-10.40.30:548][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920M
+[2018.06.19-10.40.30:548][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.06.19-10.40.30:548][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.06.19-10.40.30:548][  0]LogRHI: Texture pool is 1390 MB (70% of 1986 MB)
+[2018.06.19-10.40.30:582][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.19-10.40.30:582][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.19-10.40.30:582][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.19-10.40.30:607][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.19-10.40.30:609][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (../../../../../Unra/GUKKI/Intermediate/Shaders/WorkingDirectory/8760/).
+[2018.06.19-10.40.30:609][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dno/AppData/Local/Temp/UnrealShaderWorkingDir/1FCF5855474F1739B8F40499A7CBCD2C/'.
+[2018.06.19-10.40.31:027][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.19-10.40.31:053][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.19-10.40.31:080][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.19-10.40.31:113][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.19-10.40.31:138][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.19-10.40.31:165][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.19-10.40.31:191][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.19-10.40.31:217][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.19-10.40.31:229][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.19-10.40.31:253][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.19-10.40.31:276][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.19-10.40.31:301][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.19-10.40.31:325][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.19-10.40.31:348][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.19-10.40.31:370][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.19-10.40.31:418][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.19-10.40.31:418][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.19-10.40.31:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.19-10.40.31:446][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.19-10.40.31:499][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.19-10.40.31:522][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.19-10.40.31:546][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.19-10.40.31:569][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.19-10.40.31:594][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.19-10.40.31:619][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.19-10.40.31:619][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.19-10.40.31:778][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.19-10.40.31:778][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.19-10.40.31:778][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.19-10.40.33:401][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.19-10.40.33:624][  0]LogDerivedDataCache: Loaded boot cache 0.22s 74MB C:/Users/Dno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.19-10.40.33:624][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.19-10.40.33:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unra/GUKKI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.19-10.40.33:624][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.19-10.40.33:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unra/GUKKI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.19-10.40.33:624][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.19-10.40.33:669][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.19-10.40.33:688][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.19-10.40.33:742][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.19-10.40.33:743][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.19-10.40.33:745][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.19-10.40.33:746][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.19-10.40.33:967][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.06.19-10.40.34:721][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.19-10.40.35:007][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.19-10.40.35:011][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.19-10.40.35:011][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.19-10.40.35:011][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.19-10.40.35:011][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.19-10.40.35:011][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.19-10.40.35:131][  0]LogNetVersion: GUKKI , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 36206554)
+[2018.06.19-10.40.36:198][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.060934 seconds
+[2018.06.19-10.40.36:211][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.19-10.40.36:211][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.19-10.40.36:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.19-10.40.39:218][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.19-10.40.39:247][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.19-10.40.39:637][  0]SourceControl: Source control is disabled
+[2018.06.19-10.40.39:637][  0]SourceControl: Source control is disabled
+[2018.06.19-10.40.39:656][  0]SourceControl: Source control is disabled
+[2018.06.19-10.40.39:674][  0]SourceControl: Source control is disabled
+[2018.06.19-10.40.40:179][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.19-10.40.40:347][  0]LogOcInput: OculusInput pre-init called
+[2018.06.19-10.40.40:490][  0]LogEngine: Initializing Engine...
+[2018.06.19-10.40.40:492][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.19-10.40.40:495][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.19-10.40.40:495][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.19-10.40.41:027][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.19-10.40.41:060][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.19-10.40.41:108][  0]LogInit: FAudioDevice initialized.
+[2018.06.19-10.40.41:466][  0]LogDerivedDataCache: Saved boot cache 0.36s 74MB C:/Users/Dno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.19-10.40.41:490][  0]LogInit: Texture streaming: Enabled
+[2018.06.19-10.40.41:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.19-10.40.41:563][  0]LogInit: Transaction tracking system initialized
+[2018.06.19-10.40.41:602][  0]BlueprintLog: New page: Editor Load
+[2018.06.19-10.40.41:710][  0]LocalizationService: Localization service is disabled
+[2018.06.19-10.40.41:896][  0]LogConsoleResponse: Display: 
+[2018.06.19-10.40.42:450][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.19-10.40.42:450][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.19-10.40.42:450][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.19-10.40.42:450][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.19-10.40.42:450][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.19-10.40.42:871][  0]LogFileCache: Scanning file cache for directory 'D:/Unra/GUKKI/Content/' took 0.01s
+[2018.06.19-10.40.42:871][  0]SourceControl: Source control is disabled
+[2018.06.19-10.40.42:871][  0]Cmd: MAP LOAD FILE="../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.19-10.40.42:871][  0]LightingResults: New page: Lighting Build
+[2018.06.19-10.40.42:875][  0]MapCheck: New page: Map Check
+[2018.06.19-10.40.42:875][  0]LightingResults: New page: Lighting Build
+[2018.06.19-10.40.44:121][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.06.19-10.40.44:159][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.19-10.40.44:188][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.19-10.40.44:241][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52,403ms to complete.
+[2018.06.19-10.40.44:241][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.370
+[2018.06.19-10.40.45:804][  0]LogCollectionManager: Loaded 0 collections in 0.004240 seconds
+[2018.06.19-10.40.45:929][  0]LogFileCache: Scanning file cache for directory 'D:/Unra/GUKKI/Saved/Collections/' took 0.01s
+[2018.06.19-10.40.45:929][  0]LogFileCache: Scanning file cache for directory 'D:/Unra/GUKKI/Content/Developers/Dno/Collections/' took 0.00s
+[2018.06.19-10.40.45:929][  0]LogFileCache: Scanning file cache for directory 'D:/Unra/GUKKI/Content/Collections/' took 0.00s
+[2018.06.19-10.40.45:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.19-10.40.45:948][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2452 classes and 558 folders.
+[2018.06.19-10.40.46:030][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.19-10.40.47:287][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.19-10.40.47:348][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.06.19-10.40.48:770][  0]LogSlate: Took 0.000951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.19-10.40.48:773][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.19-10.40.48:826][  0]LogSlate: Took 0.018094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.19-10.40.49:457][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.06.19-10.40.49:852][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.19-10.40.49:852][  0]LogLoad: (Engine Initialization) Total time: 24.70 seconds
+[2018.06.19-10.40.49:852][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.19-10.40.50:232][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.19-10.40.50:298][  0]LogSlate: Took 0.044826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.19-10.40.50:874][  2]LogAssetRegistry: Asset discovery search completed in 16.9268 seconds
+[2018.06.19-10.40.50:878][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.19-10.40.50:878][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.06.19-10.40.51:220][  3]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.19-10.40.55:179][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.40.55:247][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.19-10.40.55:306][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.06.19-10.40.55:306][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.19-10.40.55:361][145]PIE: New page: PIE session: 2DSideScrollerExampleMap (19 июня 2018 г., 15:40:55)
+[2018.06.19-10.40.55:362][145]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.06.19-10.40.55:384][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022451s)
+[2018.06.19-10.40.55:385][145]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.06.19-10.40.55:394][145]LogPlayLevel: PIE: World Init took: (0.009460s)
+[2018.06.19-10.40.55:394][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.032214s)
+[2018.06.19-10.40.55:415][145]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.19-10.40.55:429][145]LogInit: FAudioDevice initialized.
+[2018.06.19-10.40.55:630][145]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.06.19-10.40.55:824][145]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.06.19-13.40.55
+[2018.06.19-10.40.55:862][145]LogWorld: Bringing up level for play took: 0.090591
+[2018.06.19-10.40.56:051][145]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.06.19-10.40.56:080][145]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1,189
+[2018.06.19-10.40.56:081][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.06.19-10.41.17:059][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.06.19-10.41.17:159][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.06.19-10.41.38:898][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.42.25:907][779]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.06.19-10.42.43:478][423]LogMetaData: Removing '/Game/Blueprints/player_bullet.player_bullet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.06.19-10.42.43:478][423]LogMetaData: Removing '/Game/Blueprints/player_bullet.SKEL_player_bullet_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.06.19-10.42.43:478][423]LogMetaData: Removing '/Game/Blueprints/player_bullet.player_bullet_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.06.19-10.42.43:478][423]LogMetaData: Removing '/Game/Blueprints/player_bullet.player_bullet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.06.19-10.42.43:478][423]LogMetaData: Removing '/Game/Blueprints/player_bullet.player_bullet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.06.19-10.42.43:478][423]LogMetaData: Removing '/Game/Blueprints/player_bullet.player_bullet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.06.19-10.42.43:540][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset" SILENT=true
+[2018.06.19-10.42.43:562][423]LogSavePackage: Save=20.67ms
+[2018.06.19-10.42.43:562][423]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet4996FE144216A86E136FFC898D124C57.tmp' to '../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset'
+[2018.06.19-10.42.43:573][423]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset
+[2018.06.19-10.42.46:296][517]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.06.19-10.42.50:192][517]LogRenderer: Reallocating scene render targets to support 856x464 Format 10 NumSamples 1 (Frame:1).
+[2018.06.19-10.43.05:764][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-10.43.07:874][686]LogSlate: Took 0.048621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.19-10.43.11:044][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.43.12:225][843]LogSlate: Window 'player_bullet' being destroyed
+[2018.06.19-10.43.23:624][529]LogSlate: Took 0.077071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.19-10.44.41:582][121]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Unra/Sprite/patron2.png)
+[2018.06.19-10.44.41:586][121]LogTexture: Display: Building textures: patron2 (AutoDXT, 16X8)
+[2018.06.19-10.44.52:613][613]LogSlate: Window 'Extract sprites' being destroyed
+[2018.06.19-10.45.03:352][146]LogRenderer: Reallocating scene render targets to support 1084x476 Format 10 NumSamples 1 (Frame:1).
+[2018.06.19-10.47.07:898][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.47.37:667][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-10.47.41:510][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-10.47.47:901][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.48.06:303][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.48.38:952][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.49.05:090][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.49.16:210][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.49.27:926][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.51.58:296][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.056
+[2018.06.19-10.51.58:368][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/player_bullet] ([1] browsable assets)...
+[2018.06.19-10.51.58:368][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/player_bullet]
+[2018.06.19-10.51.58:369][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.06.19-10.51.58:430][588]LogSavePackage: Save=14.13ms
+[2018.06.19-10.51.58:430][588]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet_Auto19256D2F643338949C8E6AAAFC809FA22.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto1.uasset'
+[2018.06.19-10.51.58:431][588]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto1.uasset
+[2018.06.19-10.51.58:431][588]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/spite/patron2] ([1] browsable assets)...
+[2018.06.19-10.51.58:435][588]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/spite/patron2.patron2]
+[2018.06.19-10.51.58:435][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/spite/patron2]
+[2018.06.19-10.51.58:435][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/spite/patron2" FILE="../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.06.19-10.51.58:460][588]LogSavePackage: Save=24.24ms
+[2018.06.19-10.51.58:460][588]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/patron2_Auto1FC1D9B134D4B78966C2DB18144795BA6.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron2_Auto1.uasset'
+[2018.06.19-10.51.58:475][588]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron2_Auto1.uasset
+[2018.06.19-10.51.58:476][588]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/spite/patron2_Sprite_0] ([1] browsable assets)...
+[2018.06.19-10.51.58:489][588]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/spite/patron2_Sprite_0.patron2_Sprite_0]
+[2018.06.19-10.51.58:489][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/spite/patron2_Sprite_0]
+[2018.06.19-10.51.58:489][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/spite/patron2_Sprite_0" FILE="../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron2_Sprite_0_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.06.19-10.51.58:502][588]LogSavePackage: Save=12.56ms
+[2018.06.19-10.51.58:502][588]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/patron2_Sprite_0_Auto197F20F2943C651F2C41BEB9D39864346.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron2_Sprite_0_Auto1.uasset'
+[2018.06.19-10.51.58:503][588]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron2_Sprite_0_Auto1.uasset
+[2018.06.19-10.51.58:505][588]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/spite/patron3] ([1] browsable assets)...
+[2018.06.19-10.51.58:522][588]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/spite/patron3.patron3]
+[2018.06.19-10.51.58:522][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/spite/patron3]
+[2018.06.19-10.51.58:522][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/spite/patron3" FILE="../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.06.19-10.51.58:529][588]LogSavePackage: Save=6.66ms
+[2018.06.19-10.51.58:529][588]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/patron3_Auto1F127F13B44A32B13F79A248FABE29E11.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron3_Auto1.uasset'
+[2018.06.19-10.51.58:530][588]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/spite/patron3_Auto1.uasset
+[2018.06.19-10.51.58:530][588]LogFileHelpers: Auto-saving content packages took 0.233
+[2018.06.19-10.53.32:421][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-10.53.55:347][426]LogSlate: Took 0.009555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.19-11.00.34:512][871]BlueprintLog: New page: Compile player_bullet
+[2018.06.19-11.01.37:728][314]BlueprintLog: New page: Compile player_bullet
+[2018.06.19-11.02.43:777][474]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.19-11.02.54:651][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter" FILE="../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" SILENT=true
+[2018.06.19-11.02.54:725][ 43]LogSavePackage: Save=67.61ms
+[2018.06.19-11.02.54:725][ 43]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/2DSideScrollerCharacterAC202C524446916B505EF9B99496D0DA.tmp' to '../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.06.19-11.02.54:726][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.06.19-11.03.31:446][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.041
+[2018.06.19-11.03.31:448][883]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/player_bullet] ([1] browsable assets)...
+[2018.06.19-11.03.31:448][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/player_bullet]
+[2018.06.19-11.03.31:448][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.06.19-11.03.31:471][883]LogSavePackage: Save=19.67ms
+[2018.06.19-11.03.31:471][883]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet_Auto275D25D9242E420FD21A9E4BFCD2FA379.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto2.uasset'
+[2018.06.19-11.03.31:544][883]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto2.uasset
+[2018.06.19-11.03.31:544][883]LogFileHelpers: Auto-saving content packages took 0.097
+[2018.06.19-11.03.35:848][131]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.06.19-11.03.38:102][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.03.40:945][348]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.06.19-11.03.42:486][416]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.06.19-11.03.43:729][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-11.03.52:934][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.03.58:895][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.04.06:493][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.05.11:805][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.05.11:884][465]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.06.19-11.05.13:246][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter" FILE="../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" SILENT=true
+[2018.06.19-11.05.13:315][496]LogSavePackage: Save=66.06ms
+[2018.06.19-11.05.13:315][496]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/2DSideScrollerCharacter302D713644F1ABE883715FAC34A58445.tmp' to '../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.06.19-11.05.13:317][496]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.06.19-11.05.50:211][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.07.27:332][541]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.06.19-11.08.14:613][816]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.06.19-11.08.34:684][533]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.06.19-11.08.34:686][533]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.06.19-11.09.24:859][220]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.06.19-11.13.52:806][392]LogSavePackage: Save=167.08ms
+[2018.06.19-11.13.52:806][392]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/2DSideScrollerExampleMap_Auto392F5A26245AE6FA3C826308C19744AF1.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2018.06.19-11.13.52:807][392]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap
+[2018.06.19-11.13.52:816][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.265
+[2018.06.19-11.13.52:816][392]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.265
+[2018.06.19-11.13.52:824][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2018.06.19-11.13.52:824][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2018.06.19-11.13.52:899][392]LogSavePackage: Save=70.60ms
+[2018.06.19-11.13.52:899][392]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/2DSideScrollerCharacter_Auto3CACA6FFF456D18B0B71A0C854CC15CA0.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto3.uasset'
+[2018.06.19-11.13.52:900][392]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto3.uasset
+[2018.06.19-11.13.52:901][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/player_bullet] ([1] browsable assets)...
+[2018.06.19-11.13.52:901][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/player_bullet]
+[2018.06.19-11.13.52:901][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.06.19-11.13.52:927][392]LogSavePackage: Save=22.31ms
+[2018.06.19-11.13.52:927][392]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet_Auto3A810245E48F7C672A243DAB5A52AA5F5.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto3.uasset'
+[2018.06.19-11.13.52:928][392]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/Blueprints/player_bullet_Auto3.uasset
+[2018.06.19-11.13.52:928][392]LogFileHelpers: Auto-saving content packages took 0.106
+[2018.06.19-11.16.12:801][258]BlueprintLog: New page: Compile player_bullet
+[2018.06.19-11.25.05:465][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset" SILENT=true
+[2018.06.19-11.25.05:509][974]LogSavePackage: Save=38.24ms
+[2018.06.19-11.25.05:509][974]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet416C5B7C465D1D44199ADA92BD27D105.tmp' to '../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset'
+[2018.06.19-11.25.05:511][974]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset
+[2018.06.19-11.25.06:110][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset" SILENT=true
+[2018.06.19-11.25.06:150][ 19]LogSavePackage: Save=35.29ms
+[2018.06.19-11.25.06:150][ 19]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet1D42183643852C780B29448B30A5069A.tmp' to '../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset'
+[2018.06.19-11.25.06:151][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset
+[2018.06.19-11.25.06:296][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset" SILENT=true
+[2018.06.19-11.25.06:336][ 28]LogSavePackage: Save=34.55ms
+[2018.06.19-11.25.06:336][ 28]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bulletCDD62DEC4375387D120F58B7BFC8006E.tmp' to '../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset'
+[2018.06.19-11.25.06:337][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset
+[2018.06.19-11.25.06:890][ 77]BlueprintLog: New page: Compile player_bullet
+[2018.06.19-11.25.08:095][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/player_bullet" FILE="../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset" SILENT=true
+[2018.06.19-11.25.08:137][126]LogSavePackage: Save=36.42ms
+[2018.06.19-11.25.08:137][126]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/player_bullet8345C05442C2C472511FD6861C63C7BB.tmp' to '../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset'
+[2018.06.19-11.25.08:138][126]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/Blueprints/player_bullet.uasset
+[2018.06.19-11.26.03:094][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.055
+[2018.06.19-11.26.03:096][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2018.06.19-11.26.03:096][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2018.06.19-11.26.03:188][672]LogSavePackage: Save=86.38ms
+[2018.06.19-11.26.03:188][672]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/2DSideScrollerCharacter_Auto41CA3F2FC4739CCAE2C5586B00F676FBC.tmp' to '../../../../../Unra/GUKKI/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto4.uasset'
+[2018.06.19-11.26.03:189][672]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto4.uasset
+[2018.06.19-11.26.03:189][672]LogFileHelpers: Auto-saving content packages took 0.094
+[2018.06.19-11.27.24:317][532]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.06.19-11.27.26:233][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter" FILE="../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" SILENT=true
+[2018.06.19-11.27.26:325][614]LogSavePackage: Save=85.32ms
+[2018.06.19-11.27.26:325][614]LogSavePackage: Moving '../../../../../Unra/GUKKI/Saved/2DSideScrollerCharacter5CF85F4D4E54704FE2C1729F2AC2CE75.tmp' to '../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.06.19-11.27.26:326][614]LogSavePackage: Display: Finished SavePackage ../../../../../Unra/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.06.19-11.28.24:647][455]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.06.19-11.28.46:087][465]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.06.19-11.32.06:765][826]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.19-11.32.08:465][859]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.238 s
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: 
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 703]
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_1073'
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: Stack: 
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E305B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E2DBAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E2DCECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E654A132 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E654DE7B UE4Editor-InputCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000DE499B0B UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E64DE4BE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E64D1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E64E052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E64CD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x0000000077809BD1 USER32.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000778098DA USER32.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000E64E1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x000000003F495475 UE4Editor.exe!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x000000003F4A6BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x000000003F4A6C4A UE4Editor.exe!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x000000003F4B4149 UE4Editor.exe!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x000000003F4B5B57 UE4Editor.exe!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x00000000776E59CD kernel32.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: [Callstack] 0x000000007791A561 ntdll.dll!UnknownFunction []
+[2018.06.19-11.32.08:465][859]LogOutputDevice: Error: 
+[2018.06.19-11.32.08:474][859]LogStats:                SubmitErrorReport -  0.000 s

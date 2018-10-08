@@ -1,0 +1,386 @@
+﻿Log file open, 10/02/18 15:19:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GUKKI
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(877087587) SRandInit(877087587).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202402
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.156s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DnoPC (192.168.1.60:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.042s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.02-12.19.35:782][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.02-12.19.35:782][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.02-12.19.35:861][  0]LogInit: Computer: DNOPC
+[2018.10.02-12.19.35:861][  0]LogInit: User: Cosmossian
+[2018.10.02-12.19.35:861][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.02-12.19.35:861][  0]LogInit: High frequency timer resolution =1.851186 MHz
+[2018.10.02-12.19.35:862][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.10.02-12.19.35:862][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.02-12.19.35:862][  0]LogMemory: Process Physical Memory: 275.50 MB used, 275.50 MB peak
+[2018.10.02-12.19.35:862][  0]LogMemory: Process Virtual Memory: 275.86 MB used, 275.86 MB peak
+[2018.10.02-12.19.35:862][  0]LogMemory: Physical Memory: 3301.93 MB used,  8905.61 MB free, 12207.54 MB total
+[2018.10.02-12.19.35:862][  0]LogMemory: Virtual Memory: 4780.01 MB used,  8905.61 MB free, 134217728.00 MB total
+[2018.10.02-12.19.35:911][  0]LogInit: Using OS detected language (ru-RU).
+[2018.10.02-12.19.35:911][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.10.02-12.19.35:917][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.10.02-12.19.36:803][  0]LogStreaming: Display: Took  0.892s to EndInitTextLocalization.
+[2018.10.02-12.19.36:804][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.02-12.19.36:892][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.02-12.19.36:892][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.02-12.19.37:462][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.02-12.19.37:611][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.10.02-12.19.37:611][  0]LogD3D11RHI:       2009/0/6103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.02-12.19.37:623][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics' (Feature Level 11_0)
+[2018.10.02-12.19.37:623][  0]LogD3D11RHI:       128/0/6103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.02-12.19.37:629][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.02-12.19.37:629][  0]LogD3D11RHI:       0/0/6103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.02-12.19.37:629][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.02-12.19.37:688][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.02-12.19.37:689][  0]LogD3D11RHI:     GPU DeviceId: 0x1299 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.02-12.19.37:689][  0]LogWindows: EnumDisplayDevices:
+[2018.10.02-12.19.37:689][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.10.02-12.19.37:689][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.10.02-12.19.37:690][  0]LogWindows:    2. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.10.02-12.19.37:690][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.02-12.19.37:690][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920M
+[2018.10.02-12.19.37:690][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.02-12.19.37:690][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.02-12.19.37:690][  0]LogRHI: Texture pool is 1406 MB (70% of 2009 MB)
+[2018.10.02-12.19.37:818][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.02-12.19.37:818][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.02-12.19.37:818][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.02-12.19.37:849][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.02-12.19.37:851][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../../../Ue4projects/GUKKI/Intermediate/Shaders/WorkingDirectory/6996/).
+[2018.10.02-12.19.37:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cosmossian/AppData/Local/Temp/UnrealShaderWorkingDir/9EE9C9AE47572BA83FB9499F67864EB9/'.
+[2018.10.02-12.19.38:537][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.02-12.19.38:567][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.02-12.19.38:597][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.02-12.19.38:627][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.02-12.19.38:658][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.02-12.19.38:702][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.02-12.19.38:732][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.02-12.19.38:763][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.02-12.19.38:778][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.02-12.19.38:803][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.02-12.19.38:829][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.02-12.19.38:855][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.02-12.19.38:881][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.02-12.19.38:907][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.02-12.19.38:934][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.02-12.19.38:986][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.02-12.19.38:986][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.02-12.19.39:013][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.02-12.19.39:017][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.02-12.19.39:073][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.02-12.19.39:098][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.02-12.19.39:123][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.02-12.19.39:148][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.02-12.19.39:174][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.02-12.19.39:201][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.02-12.19.39:201][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.02-12.19.39:482][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.02-12.19.39:482][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.02-12.19.39:482][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.02-12.19.41:062][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.02-12.19.41:269][  0]LogDerivedDataCache: Loaded boot cache 0.21s 74MB C:/Users/Cosmossian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.02-12.19.41:269][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cosmossian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.02-12.19.41:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Ue4projects/GUKKI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.02-12.19.41:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.02-12.19.41:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Ue4projects/GUKKI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.02-12.19.41:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.02-12.19.41:300][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.02-12.19.41:314][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cosmossian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.02-12.19.41:314][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.02-12.19.41:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.02-12.19.41:336][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.02-12.19.41:337][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.02-12.19.41:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.02-12.19.41:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.02-12.19.41:598][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2018.10.02-12.19.42:180][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.02-12.19.42:484][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.02-12.19.42:491][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.02-12.19.42:491][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.02-12.19.42:491][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.02-12.19.42:491][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.02-12.19.42:491][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.02-12.19.42:559][  0]LogNetVersion: GUKKI , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 36206554)
+[2018.10.02-12.19.44:242][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.724873 seconds
+[2018.10.02-12.19.44:252][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.02-12.19.44:252][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.02-12.19.44:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.02-12.19.47:711][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.02-12.19.47:766][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.02-12.19.48:569][  0]SourceControl: Source control is disabled
+[2018.10.02-12.19.48:569][  0]SourceControl: Source control is disabled
+[2018.10.02-12.19.48:615][  0]SourceControl: Source control is disabled
+[2018.10.02-12.19.48:662][  0]SourceControl: Source control is disabled
+[2018.10.02-12.19.49:920][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.02-12.19.50:268][  0]LogOcInput: OculusInput pre-init called
+[2018.10.02-12.19.50:500][  0]LogEngine: Initializing Engine...
+[2018.10.02-12.19.50:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.02-12.19.50:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.02-12.19.50:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.02-12.19.50:954][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.02-12.19.51:010][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.02-12.19.51:103][  0]LogInit: FAudioDevice initialized.
+[2018.10.02-12.19.53:533][  0]LogDerivedDataCache: Saved boot cache 2.43s 74MB C:/Users/Cosmossian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.02-12.19.53:570][  0]LogInit: Texture streaming: Enabled
+[2018.10.02-12.19.53:611][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.02-12.19.53:646][  0]LogInit: Transaction tracking system initialized
+[2018.10.02-12.19.53:710][  0]BlueprintLog: New page: Editor Load
+[2018.10.02-12.19.53:951][  0]LocalizationService: Localization service is disabled
+[2018.10.02-12.19.54:185][  0]LogConsoleResponse: Display: 
+[2018.10.02-12.19.55:007][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.02-12.19.55:007][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.02-12.19.55:007][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.02-12.19.55:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.02-12.19.55:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.02-12.19.55:896][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Content/' took 0.04s
+[2018.10.02-12.19.55:896][  0]SourceControl: Source control is disabled
+[2018.10.02-12.19.55:897][  0]Cmd: MAP LOAD FILE="../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.02-12.19.55:897][  0]LogEditorServer: Warning: Can't find file '../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.10.02-12.19.55:897][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.02-12.19.56:033][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136,142ms to complete.
+[2018.10.02-12.19.56:034][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.137
+[2018.10.02-12.19.58:165][  0]LogCollectionManager: Loaded 0 collections in 0.096559 seconds
+[2018.10.02-12.19.58:838][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Saved/Collections/' took 0.01s
+[2018.10.02-12.19.58:838][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Content/Developers/Cosmossian/Collections/' took 0.01s
+[2018.10.02-12.19.58:838][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Content/Collections/' took 0.01s
+[2018.10.02-12.19.58:838][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.02-12.19.58:908][  0]LogContentBrowser: Native class hierarchy populated in 0.0437 seconds. Added 2452 classes and 558 folders.
+[2018.10.02-12.19.59:014][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.02-12.20.03:630][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.02-12.20.03:703][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.02-12.20.05:545][  0]LogSlate: Took 0.000950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.02-12.20.05:549][  0]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.02-12.20.05:656][  0]LogSlate: Took 0.020539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.02-12.20.06:386][  0]LogRenderer: Reallocating scene render targets to support 732x396 Format 10 NumSamples 1 (Frame:1).
+[2018.10.02-12.20.06:961][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.02-12.20.06:961][  0]LogLoad: (Engine Initialization) Total time: 39.36 seconds
+[2018.10.02-12.20.06:961][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.02-12.20.06:981][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.02-12.20.07:011][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.02-12.20.07:074][  0]LogSlate: Took 0.019475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.02-12.20.07:217][  2]LogAssetRegistry: Asset discovery search completed in 25.6415 seconds
+[2018.10.02-12.20.07:221][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.02-12.20.07:221][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2018.10.02-12.20.08:069][ 45]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.02-12.20.08:291][ 53]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error E_INVALIDARG
+[2018.10.02-12.20.08:377][ 53]LogWindows: Windows GetLastError: Операция успешно завершена. (0)

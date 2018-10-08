@@ -1,0 +1,1064 @@
+﻿Log file open, 07/09/18 08:40:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GUKKI
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-975336398) SRandInit(-975336398).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.135576
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.179s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DnoPC (192.168.1.66:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.09-04.40.37:178][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.09-04.40.37:178][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.09-04.40.37:214][  0]LogInit: Computer: DNOPC
+[2018.07.09-04.40.37:214][  0]LogInit: User: Cosmossian
+[2018.07.09-04.40.37:214][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.09-04.40.37:214][  0]LogInit: High frequency timer resolution =1.851201 MHz
+[2018.07.09-04.40.37:215][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.07.09-04.40.37:215][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.09-04.40.37:215][  0]LogMemory: Process Physical Memory: 275.78 MB used, 275.78 MB peak
+[2018.07.09-04.40.37:215][  0]LogMemory: Process Virtual Memory: 266.15 MB used, 266.15 MB peak
+[2018.07.09-04.40.37:215][  0]LogMemory: Physical Memory: 5027.19 MB used,  7180.36 MB free, 12207.55 MB total
+[2018.07.09-04.40.37:215][  0]LogMemory: Virtual Memory: 627.28 MB used,  7180.36 MB free, 8388608.00 MB total
+[2018.07.09-04.40.37:248][  0]LogInit: Using OS detected language (ru-RU).
+[2018.07.09-04.40.37:248][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.07.09-04.40.37:251][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.07.09-04.40.37:982][  0]LogStreaming: Display: Took  0.734s to EndInitTextLocalization.
+[2018.07.09-04.40.37:982][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.07.09-04.40.37:982][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.07.09-04.40.37:982][  0]LogInit: Setting process to DPI aware
+[2018.07.09-04.40.37:986][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.07.09-04.40.37:986][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.07.09-04.40.37:986][  0]LogInit: Setting process to DPI aware
+[2018.07.09-04.40.38:013][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.09-04.40.38:013][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.09-04.40.38:272][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.09-04.40.38:316][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.07.09-04.40.38:316][  0]LogD3D11RHI:       1986/0/5847 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.09-04.40.38:341][  0]LogD3D11RHI:    1. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.07.09-04.40.38:341][  0]LogD3D11RHI:       1986/0/5847 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.07.09-04.40.38:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.09-04.40.38:348][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.09-04.40.38:348][  0]LogD3D11RHI:     GPU DeviceId: 0x1299 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.09-04.40.38:348][  0]LogWindows: EnumDisplayDevices:
+[2018.07.09-04.40.38:348][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.07.09-04.40.38:349][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.07.09-04.40.38:349][  0]LogWindows:    2. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.07.09-04.40.38:349][  0]LogWindows:    3. 'NVIDIA GeForce 920M' (P:0 D:0)
+[2018.07.09-04.40.38:349][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.07.09-04.40.38:349][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.07.09-04.40.38:349][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.07.09-04.40.38:350][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2018.07.09-04.40.38:350][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920M
+[2018.07.09-04.40.38:350][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.07.09-04.40.38:350][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.07.09-04.40.38:350][  0]LogRHI: Texture pool is 1390 MB (70% of 1986 MB)
+[2018.07.09-04.40.38:381][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.09-04.40.38:381][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.09-04.40.38:381][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.09-04.40.38:400][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.09-04.40.38:401][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../../../Ue4projects/GUKKI/Intermediate/Shaders/WorkingDirectory/4560/).
+[2018.07.09-04.40.38:401][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cosmossian/AppData/Local/Temp/UnrealShaderWorkingDir/F75E42C4452BE4C6727341B8A4BB8C15/'.
+[2018.07.09-04.40.38:829][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.09-04.40.38:852][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.09-04.40.38:876][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.09-04.40.38:899][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.09-04.40.38:922][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.09-04.40.38:945][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.09-04.40.38:968][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.09-04.40.38:992][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.09-04.40.39:002][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.09-04.40.39:024][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.09-04.40.39:045][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.09-04.40.39:066][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.09-04.40.39:087][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.09-04.40.39:109][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.09-04.40.39:130][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.09-04.40.39:173][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.09-04.40.39:173][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.09-04.40.39:194][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.09-04.40.39:196][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.09-04.40.39:240][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.09-04.40.39:261][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.09-04.40.39:282][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.09-04.40.39:303][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.09-04.40.39:324][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.09-04.40.39:345][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.09-04.40.39:346][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.09-04.40.39:462][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.09-04.40.39:462][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.09-04.40.39:463][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.09-04.40.40:731][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.09-04.40.40:859][  0]LogDerivedDataCache: Loaded boot cache 0.13s 74MB C:/Users/Cosmossian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.09-04.40.40:859][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cosmossian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.09-04.40.40:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Ue4projects/GUKKI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.09-04.40.40:860][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.09-04.40.40:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Ue4projects/GUKKI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.09-04.40.40:860][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.09-04.40.40:891][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.09-04.40.40:903][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cosmossian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.09-04.40.40:903][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.09-04.40.40:903][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.09-04.40.40:924][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.09-04.40.40:925][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.09-04.40.40:925][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.09-04.40.40:925][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.09-04.40.41:079][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.07.09-04.40.41:605][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.09-04.40.41:863][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.09-04.40.41:867][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.09-04.40.41:867][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.09-04.40.41:867][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.09-04.40.41:867][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.09-04.40.41:867][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.09-04.40.41:911][  0]LogNetVersion: GUKKI , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 36206554)
+[2018.07.09-04.40.42:669][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.079182 seconds
+[2018.07.09-04.40.42:677][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.09-04.40.42:677][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.09-04.40.42:677][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.09-04.40.45:237][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.09-04.40.45:265][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.09-04.40.45:605][  0]SourceControl: Source control is disabled
+[2018.07.09-04.40.45:605][  0]SourceControl: Source control is disabled
+[2018.07.09-04.40.45:622][  0]SourceControl: Source control is disabled
+[2018.07.09-04.40.45:638][  0]SourceControl: Source control is disabled
+[2018.07.09-04.40.46:091][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.09-04.40.46:243][  0]LogOcInput: OculusInput pre-init called
+[2018.07.09-04.40.46:372][  0]LogEngine: Initializing Engine...
+[2018.07.09-04.40.46:374][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.09-04.40.46:377][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.09-04.40.46:377][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.09-04.40.46:754][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.09-04.40.46:791][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.40.46:818][  0]LogInit: FAudioDevice initialized.
+[2018.07.09-04.40.47:035][  0]LogDerivedDataCache: Saved boot cache 0.22s 74MB C:/Users/Cosmossian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.09-04.40.47:047][  0]LogInit: Texture streaming: Enabled
+[2018.07.09-04.40.47:066][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.09-04.40.47:078][  0]LogInit: Transaction tracking system initialized
+[2018.07.09-04.40.47:108][  0]BlueprintLog: New page: Editor Load
+[2018.07.09-04.40.47:198][  0]LocalizationService: Localization service is disabled
+[2018.07.09-04.40.47:312][  0]LogConsoleResponse: Display: 
+[2018.07.09-04.40.47:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.09-04.40.47:648][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.09-04.40.47:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.09-04.40.47:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.09-04.40.47:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.09-04.40.48:021][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Content/' took 0.03s
+[2018.07.09-04.40.48:021][  0]SourceControl: Source control is disabled
+[2018.07.09-04.40.48:021][  0]Cmd: MAP LOAD FILE="../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.09-04.40.48:021][  0]LogEditorServer: Warning: Can't find file '../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.07.09-04.40.48:021][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.09-04.40.48:069][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48,181ms to complete.
+[2018.07.09-04.40.48:070][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.049
+[2018.07.09-04.40.48:521][  0]LogCollectionManager: Loaded 0 collections in 0.001951 seconds
+[2018.07.09-04.40.48:947][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Saved/Collections/' took 0.01s
+[2018.07.09-04.40.48:947][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Content/Developers/Cosmossian/Collections/' took 0.01s
+[2018.07.09-04.40.48:947][  0]LogFileCache: Scanning file cache for directory 'C:/Ue4projects/GUKKI/Content/Collections/' took 0.01s
+[2018.07.09-04.40.48:947][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.09-04.40.48:971][  0]LogContentBrowser: Native class hierarchy populated in 0.0235 seconds. Added 2452 classes and 558 folders.
+[2018.07.09-04.40.49:072][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.09-04.40.51:156][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.09-04.40.51:199][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.09-04.40.51:353][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.09-04.40.51:359][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.09-04.40.51:383][  0]LogSlate: Took 0.010293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.09-04.40.51:772][  0]LogRenderer: Reallocating scene render targets to support 756x372 Format 10 NumSamples 1 (Frame:1).
+[2018.07.09-04.40.52:267][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.09-04.40.52:267][  0]LogLoad: (Engine Initialization) Total time: 17.85 seconds
+[2018.07.09-04.40.52:267][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.09-04.40.52:309][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.09-04.40.52:348][  0]LogSlate: Took 0.009582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.09-04.40.52:674][  4]LogAssetRegistry: Asset discovery search completed in 11.6156 seconds
+[2018.07.09-04.40.52:681][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.09-04.40.52:681][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000146 seconds (updated 0 objects)
+[2018.07.09-04.40.53:370][ 28]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.09-04.40.58:915][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.40.59:163][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004e51b380, Size=576, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.40.59:166][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000044294b80, Size=416, Default__player_bullet_C Function /Game/Blueprints/player_bullet.player_bullet_C:ExecuteUbergraph_player_bullet
+[2018.07.09-04.40.59:275][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000026454460, Size=32, Default__widgetESC_C Function /Game/SpriteMain/widgetESC.widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.40.59:516][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000026454440, Size=32, Default__Widgeticongame_C Function /Game/SpriteMain/Widgeticongame.Widgeticongame_C:ExecuteUbergraph_Widgeticongame
+[2018.07.09-04.40.59:610][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004e51b380, Size=576
+[2018.07.09-04.40.59:610][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f4c0900, Size=576, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_5:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.40.59:610][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f4c0e00, Size=576, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.40.59:624][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000044294b80, Size=416
+[2018.07.09-04.40.59:624][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f0bf200, Size=416, Default__player_bullet_C Function /Engine/Transient.REINST_player_bullet_C_6:ExecuteUbergraph_player_bullet
+[2018.07.09-04.40.59:625][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000026454460, Size=32
+[2018.07.09-04.40.59:625][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f0478c0, Size=32, Default__widgetESC_C Function /Engine/Transient.REINST_widgetESC_C_1:ExecuteUbergraph_widgetESC
+[2018.07.09-04.40.59:625][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000026454440, Size=32
+[2018.07.09-04.40.59:625][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f047840, Size=32, Default__Widgeticongame_C Function /Engine/Transient.REINST_Widgeticongame_C_2:ExecuteUbergraph_Widgeticongame
+[2018.07.09-04.40.59:626][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f4c0e00, Size=576
+[2018.07.09-04.40.59:627][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f0b2480, Size=576, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_7:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.40.59:652][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f0bc480, Size=416, Default__player_bullet_C Function /Game/Blueprints/player_bullet.player_bullet_C:ExecuteUbergraph_player_bullet
+[2018.07.09-04.40.59:655][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005ef5b540, Size=32, Default__widgetESC_C Function /Game/SpriteMain/widgetESC.widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.40.59:656][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005ef5b340, Size=32, Default__Widgeticongame_C Function /Game/SpriteMain/Widgeticongame.Widgeticongame_C:ExecuteUbergraph_Widgeticongame
+[2018.07.09-04.40.59:663][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005ef69300, Size=576, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.41.00:930][363]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.07.09-04.41.01:602][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000059d7d2c8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.09-04.41.01:603][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000059d7d2c0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.09-04.41.03:560][363]LogSlate: Took 0.013829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.09-04.41.08:147][563]LogSlate: Window 'Widgeticongame' being destroyed
+[2018.07.09-04.41.09:293][620]LogSlate: Window 'widgetESC' being destroyed
+[2018.07.09-04.41.23:789][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004e7f3d00, Size=672, Default__TAGAIENEMY_C Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY
+[2018.07.09-04.41.23:792][404]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000079731180, Size=176, Default__TAGAIcontroller_C Function /Game/Blueprints/EnemySword/TAGAIcontroller.TAGAIcontroller_C:ExecuteUbergraph_TAGAIcontroller
+[2018.07.09-04.41.23:916][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000079731180, Size=176
+[2018.07.09-04.41.23:916][404]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000764eaa40, Size=176, Default__TAGAIcontroller_C Function /Engine/Transient.REINST_TAGAIcontroller_C_25:ExecuteUbergraph_TAGAIcontroller
+[2018.07.09-04.41.23:918][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004e7f3d00, Size=672
+[2018.07.09-04.41.23:918][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005f848a00, Size=672, Default__TAGAIENEMY_C Function /Engine/Transient.REINST_TAGAIENEMY_C_26:ExecuteUbergraph_TAGAIENEMY
+[2018.07.09-04.41.23:964][404]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000786b6080, Size=176, Default__TAGAIcontroller_C Function /Game/Blueprints/EnemySword/TAGAIcontroller.TAGAIcontroller_C:ExecuteUbergraph_TAGAIcontroller
+[2018.07.09-04.41.23:969][404]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000764a0700, Size=672, Default__TAGAIENEMY_C Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY
+[2018.07.09-04.41.23:994][404]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000075a50880, Size=24, Default__killzone_C Function /Game/Blueprints/killzone.killzone_C:ExecuteUbergraph_killzone
+[2018.07.09-04.41.23:998][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000075a50880, Size=24
+[2018.07.09-04.41.23:998][404]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000075a50880, Size=24, Default__killzone_C Function /Engine/Transient.REINST_killzone_C_31:ExecuteUbergraph_killzone
+[2018.07.09-04.41.24:000][404]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000075a52488, Size=24, Default__killzone_C Function /Game/Blueprints/killzone.killzone_C:ExecuteUbergraph_killzone
+[2018.07.09-04.41.24:421][404]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.41.24:512][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f4c0900, Size=576
+[2018.07.09-04.41.24:512][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f0bf200, Size=416
+[2018.07.09-04.41.24:512][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f0478c0, Size=32
+[2018.07.09-04.41.24:512][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f047840, Size=32
+[2018.07.09-04.41.24:512][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f0b2480, Size=576
+[2018.07.09-04.41.24:513][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005f848a00, Size=672
+[2018.07.09-04.41.24:513][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000764eaa40, Size=176
+[2018.07.09-04.41.24:513][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000075a50880, Size=24
+[2018.07.09-04.41.24:517][404]Cmd: MAP LOAD FILE="../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/testlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.09-04.41.24:517][404]LightingResults: New page: Lighting Build
+[2018.07.09-04.41.24:520][404]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.07.09-04.41.24:521][404]LoadErrors: New page: Loading map: testlevel.umap
+[2018.07.09-04.41.24:522][404]MapCheck: New page: Map Check
+[2018.07.09-04.41.24:522][404]LightingResults: New page: Lighting Build
+[2018.07.09-04.41.24:570][404]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.09-04.41.24:664][404]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.09-04.41.24:733][404]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,377ms to complete.
+[2018.07.09-04.41.24:735][404]LogFileHelpers: Loading map 'testlevel' took 0.219
+[2018.07.09-04.41.36:249][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.41.52:880][ 39]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004aed7488, Size=4, Default__SKEL_widgetESC_C Function /Game/SpriteMain/widgetESC.SKEL_widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.41.57:994][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.57:999][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:001][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:003][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:005][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:007][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:009][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:012][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:015][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:017][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:020][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:043][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:045][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:049][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:051][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:054][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:056][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:058][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:061][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:071][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:074][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:077][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:080][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:083][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:085][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:087][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:089][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:092][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:104][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:107][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:110][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:112][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:116][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:125][336]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:130][336]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:142][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:145][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:150][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:161][338]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:177][339]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:195][340]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:210][341]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:228][342]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:245][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:261][344]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:278][345]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:295][346]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:311][347]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:328][348]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:345][349]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:361][350]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:378][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:395][352]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:411][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:428][354]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:442][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:447][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:459][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:463][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:476][357]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:480][357]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:492][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:497][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:509][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:513][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:517][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:526][360]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:531][360]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:543][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:545][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:550][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:560][362]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:565][362]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:576][363]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:579][363]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:593][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:598][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:610][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:615][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:627][366]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:645][367]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:662][368]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:678][369]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:695][370]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:712][371]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:728][372]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:745][373]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:762][374]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:780][375]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:794][376]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:810][377]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:813][377]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:817][377]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:829][378]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:843][379]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:848][379]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:861][380]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:877][381]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:880][381]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:894][382]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:911][383]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:915][383]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:928][384]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:945][385]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:962][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:979][387]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.58:995][388]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:010][389]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:015][389]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:028][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:046][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:062][392]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:079][393]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:095][394]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:110][395]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:115][395]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:128][396]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:145][397]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:162][398]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:179][399]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:193][400]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_276' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:198][400]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_278' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:211][401]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_280' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:229][402]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_282' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:246][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_284' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:262][404]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_286' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:279][405]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_288' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:296][406]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_290' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:312][407]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_292' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:329][408]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_294' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:346][409]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_296' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:362][410]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_298' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:379][411]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_300' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:396][412]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_302' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:410][413]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_304' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:415][413]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_306' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:428][414]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_308' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:446][415]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_310' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:463][416]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_312' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:479][417]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_314' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:496][418]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_316' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:513][419]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_318' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:531][420]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_320' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:544][421]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_322' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:548][421]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_324' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:560][422]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_326' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:565][422]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_328' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:578][423]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_330' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:594][424]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_332' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:599][424]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_334' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:611][425]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_336' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:629][426]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_338' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:646][427]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_340' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:663][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_342' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:680][429]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_344' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:696][430]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_346' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:712][431]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_348' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:729][432]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_350' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:746][433]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_352' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:762][434]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_354' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:779][435]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_356' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:797][436]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_358' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:812][437]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_360' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:829][438]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_362' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:846][439]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_364' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:863][440]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_366' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:879][441]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_368' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:896][442]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_370' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:913][443]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_372' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:929][444]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_374' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:946][445]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_376' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:963][446]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_378' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:979][447]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_380' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.41.59:996][448]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_382' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.42.00:013][449]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_384' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.42.00:029][450]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_386' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.09-04.42.00:048][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004aed7488, Size=4
+[2018.07.09-04.42.00:048][451]LogUObjectGlobals: Created PersistentFrame Addr=0x000000002adc96a0, Size=4, Default__SKEL_widgetESC_C Function /Engine/Transient.REINST_SKEL_widgetESC_C_4:ExecuteUbergraph_widgetESC
+[2018.07.09-04.42.00:050][451]LogUObjectGlobals: Created PersistentFrame Addr=0x000000002adc8920, Size=4, Default__SKEL_widgetESC_C Function /Game/SpriteMain/widgetESC.SKEL_widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.42.06:556][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000002adc8920, Size=4
+[2018.07.09-04.42.06:556][774]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000084c5c3b8, Size=4, Default__SKEL_widgetESC_C Function /Engine/Transient.REINST_SKEL_widgetESC_C_5:ExecuteUbergraph_widgetESC
+[2018.07.09-04.42.06:558][774]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000084c5c350, Size=4, Default__SKEL_widgetESC_C Function /Game/SpriteMain/widgetESC.SKEL_widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.42.30:996][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.42.34:370][390]LogSlate: Took 0.008381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.09-04.43.00:246][907]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.09-04.44.09:510][904]BlueprintLog: New page: Compile widgetESC
+[2018.07.09-04.44.09:516][904]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000084c5c350, Size=4
+[2018.07.09-04.44.09:516][904]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004ae7abe0, Size=4, Default__SKEL_widgetESC_C Function /Engine/Transient.REINST_SKEL_widgetESC_C_6:ExecuteUbergraph_widgetESC
+[2018.07.09-04.44.09:529][904]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005ef5b540, Size=32
+[2018.07.09-04.44.09:529][904]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008e0dd7c0, Size=32, Default__widgetESC_C Function /Engine/Transient.REINST_widgetESC_C_7:ExecuteUbergraph_widgetESC
+[2018.07.09-04.44.09:533][904]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008cad3d98, Size=56, Default__widgetESC_C Function /Game/SpriteMain/widgetESC.widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.44.09:573][904]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004ae7abe0, Size=4
+[2018.07.09-04.44.09:573][904]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000084c5c3b8, Size=4
+[2018.07.09-04.44.09:573][904]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000002adc96a0, Size=4
+[2018.07.09-04.44.09:830][913]BlueprintLog: New page: Compile widgetESC
+[2018.07.09-04.44.09:847][913]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008cad3d98, Size=56
+[2018.07.09-04.44.09:847][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006d44ef60, Size=56, widgetESC_C_8 Function /Engine/Transient.REINST_widgetESC_C_9:ExecuteUbergraph_widgetESC
+[2018.07.09-04.44.09:850][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006d44f1c8, Size=56, Default__widgetESC_C Function /Game/SpriteMain/widgetESC.widgetESC_C:ExecuteUbergraph_widgetESC
+[2018.07.09-04.44.14:969][212]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.44.15:016][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.15:016][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.44.15:088][212]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:44:15)
+[2018.07.09-04.44.15:089][212]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.44.15:098][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009350s)
+[2018.07.09-04.44.15:099][212]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.44.15:100][212]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2018.07.09-04.44.15:100][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.011024s)
+[2018.07.09-04.44.15:130][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006d44ef60, Size=56
+[2018.07.09-04.44.15:133][212]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.44.15:147][212]LogInit: FAudioDevice initialized.
+[2018.07.09-04.44.15:192][212]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.44.15:196][212]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.44.15
+[2018.07.09-04.44.15:197][212]LogWorld: Bringing up level for play took: 0.004814
+[2018.07.09-04.44.15:265][212]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.07.09-04.44.15:268][212]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel -0,72
+[2018.07.09-04.44.15:268][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.15:422][219]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.44.15:423][219]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.44.18:545][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.18:582][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.19:281][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.44.32:896][219]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.07.09-04.44.33:043][219]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005ef69300, Size=576
+[2018.07.09-04.44.33:043][219]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000090a93600, Size=576, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_52:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.44.33:070][219]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000722aae80, Size=576, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.44.36:016][360]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.44.36:060][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.36:060][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.44.36:060][360]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:44:36)
+[2018.07.09-04.44.36:061][360]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.44.36:071][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009752s)
+[2018.07.09-04.44.36:072][360]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.44.36:072][360]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2018.07.09-04.44.36:072][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.011059s)
+[2018.07.09-04.44.36:107][360]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.44.36:118][360]LogInit: FAudioDevice initialized.
+[2018.07.09-04.44.36:152][360]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.44.36:156][360]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.44.36
+[2018.07.09-04.44.36:157][360]LogWorld: Bringing up level for play took: 0.003977
+[2018.07.09-04.44.36:159][360]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel 0,172
+[2018.07.09-04.44.36:160][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.36:457][377]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.44.36:458][377]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.44.40:870][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.44.43:591][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.43:647][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.44:974][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.44.45:057][772]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.44.45:102][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.45:102][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.44.45:102][772]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:44:45)
+[2018.07.09-04.44.45:103][772]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.44.45:113][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009969s)
+[2018.07.09-04.44.45:113][772]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.44.45:114][772]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2018.07.09-04.44.45:114][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.011303s)
+[2018.07.09-04.44.45:150][772]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.44.45:161][772]LogInit: FAudioDevice initialized.
+[2018.07.09-04.44.45:195][772]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.44.45:199][772]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.44.45
+[2018.07.09-04.44.45:199][772]LogWorld: Bringing up level for play took: 0.003886
+[2018.07.09-04.44.45:202][772]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel -0,785
+[2018.07.09-04.44.45:203][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.45:505][788]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.44.45:505][788]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.44.50:809][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.44.50:879][100]LogNet: Browse: /Game/SpriteMain/Menulevel
+[2018.07.09-04.44.50:880][100]LogLoad: LoadMap: /Game/SpriteMain/Menulevel
+[2018.07.09-04.44.50:937][100]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004aed4208, Size=4, Default__GlMenuWidgit_C Function /Game/SpriteMain/GlMenuWidgit.GlMenuWidgit_C:ExecuteUbergraph_GlMenuWidgit
+[2018.07.09-04.44.50:940][100]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004aed4208, Size=4
+[2018.07.09-04.44.50:941][100]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004aed4208, Size=4, Default__GlMenuWidgit_C Function /Engine/Transient.REINST_GlMenuWidgit_C_12:ExecuteUbergraph_GlMenuWidgit
+[2018.07.09-04.44.50:942][100]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004aed4280, Size=4, Default__GlMenuWidgit_C Function /Game/SpriteMain/GlMenuWidgit.GlMenuWidgit_C:ExecuteUbergraph_GlMenuWidgit
+[2018.07.09-04.44.50:946][100]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000860e65d8, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.44.50:947][100]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000860e65d8, Size=24
+[2018.07.09-04.44.50:947][100]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000860e65d8, Size=24, Default__Menulevel_C Function /Engine/Transient.REINST_Menulevel_C_55:ExecuteUbergraph_Menulevel
+[2018.07.09-04.44.50:949][100]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000860e7280, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.44.52:077][100]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.44.52:077][100]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.44.52:079][100]LogWorld: Bringing World /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2018.07.09-08.44.52
+[2018.07.09-04.44.52:079][100]LogWorld: Bringing up level for play took: 0.001076
+[2018.07.09-04.44.52:080][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.09-04.44.52:083][100]LogLoad: Took 1.202822 seconds to LoadMap(/Game/SpriteMain/Menulevel)
+[2018.07.09-04.44.55:884][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.44.55:986][304]PIE: Warning: The widget 'widgetESC_C' was already added to the screen.
+[2018.07.09-04.44.57:411][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.44.59:638][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.59:681][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.44.59:722][505]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000860e7280, Size=24
+[2018.07.09-04.44.59:722][505]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000860e65d8, Size=24
+[2018.07.09-04.44.59:722][505]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004aed4208, Size=4
+[2018.07.09-04.45.01:280][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.45.01:365][592]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.45.01:408][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.01:408][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.45.01:409][592]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:45:01)
+[2018.07.09-04.45.01:411][592]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.45.01:420][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009225s)
+[2018.07.09-04.45.01:421][592]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.45.01:421][592]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.07.09-04.45.01:421][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.010359s)
+[2018.07.09-04.45.01:454][592]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.45.01:464][592]LogInit: FAudioDevice initialized.
+[2018.07.09-04.45.01:500][592]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.45.01:504][592]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.45.01
+[2018.07.09-04.45.01:505][592]LogWorld: Bringing up level for play took: 0.004178
+[2018.07.09-04.45.01:508][592]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel -0,48
+[2018.07.09-04.45.01:508][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.01:819][609]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.45.01:819][609]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.45.03:798][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.45.03:868][728]LogNet: Browse: /Game/SpriteMain/Menulevel
+[2018.07.09-04.45.03:869][728]LogLoad: LoadMap: /Game/SpriteMain/Menulevel
+[2018.07.09-04.45.03:929][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004ac70358, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.45.03:931][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004ac70358, Size=24
+[2018.07.09-04.45.03:931][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004ac70358, Size=24, Default__Menulevel_C Function /Engine/Transient.REINST_Menulevel_C_57:ExecuteUbergraph_Menulevel
+[2018.07.09-04.45.03:933][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004ac721d0, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.45.03:944][728]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.45.03:945][728]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.45.03:946][728]LogWorld: Bringing World /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2018.07.09-08.45.03
+[2018.07.09-04.45.03:947][728]LogWorld: Bringing up level for play took: 0.001437
+[2018.07.09-04.45.03:947][728]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.09-04.45.03:949][728]LogLoad: Took 0.080764 seconds to LoadMap(/Game/SpriteMain/Menulevel)
+[2018.07.09-04.45.08:579][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.45.08:657][975]PIE: Warning: The widget 'widgetESC_C' was already added to the screen.
+[2018.07.09-04.45.09:164][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.09:212][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.09:250][999]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004ac721d0, Size=24
+[2018.07.09-04.45.09:250][999]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004ac70358, Size=24
+[2018.07.09-04.45.15:953][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.45.16:036][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.45.16:081][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.16:081][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.45.16:081][395]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:45:16)
+[2018.07.09-04.45.16:083][395]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.45.16:093][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009509s)
+[2018.07.09-04.45.16:094][395]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.45.16:094][395]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.07.09-04.45.16:094][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.010756s)
+[2018.07.09-04.45.16:126][395]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.45.16:136][395]LogInit: FAudioDevice initialized.
+[2018.07.09-04.45.16:166][395]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.45.16:169][395]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.45.16
+[2018.07.09-04.45.16:170][395]LogWorld: Bringing up level for play took: 0.003652
+[2018.07.09-04.45.16:173][395]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel 0,185
+[2018.07.09-04.45.16:173][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.16:473][412]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.45.16:473][412]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.45.19:311][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.45.19:397][583]LogNet: Browse: /Game/SpriteMain/Menulevel
+[2018.07.09-04.45.19:397][583]LogLoad: LoadMap: /Game/SpriteMain/Menulevel
+[2018.07.09-04.45.19:455][583]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008cd17f40, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.45.19:457][583]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008cd17f40, Size=24
+[2018.07.09-04.45.19:457][583]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008cd17f40, Size=24, Default__Menulevel_C Function /Engine/Transient.REINST_Menulevel_C_59:ExecuteUbergraph_Menulevel
+[2018.07.09-04.45.19:459][583]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008cd14f40, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.45.19:469][583]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.45.19:469][583]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.45.19:470][583]LogWorld: Bringing World /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2018.07.09-08.45.19
+[2018.07.09-04.45.19:470][583]LogWorld: Bringing up level for play took: 0.000844
+[2018.07.09-04.45.19:471][583]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.09-04.45.19:473][583]LogLoad: Took 0.076368 seconds to LoadMap(/Game/SpriteMain/Menulevel)
+[2018.07.09-04.45.23:068][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.23:115][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.45.23:153][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008cd14f40, Size=24
+[2018.07.09-04.45.23:153][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008cd17f40, Size=24
+[2018.07.09-04.45.32:348][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.45.41:367][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-04.45.42:925][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-04.45.53:391][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009b6baba8, Size=4, Default__SKEL_testlevel_C Function /Game/2DSideScrollerBP/Maps/testlevel.SKEL_testlevel_C:ExecuteUbergraph_testlevel
+[2018.07.09-04.46.06:672][241]BlueprintLog: New page: Compile testlevel
+[2018.07.09-04.46.06:675][241]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009b6baba8, Size=4
+[2018.07.09-04.46.06:675][241]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009b6baba8, Size=4, Default__SKEL_testlevel_C Function /Engine/Transient.REINST_SKEL_testlevel_C_63:ExecuteUbergraph_testlevel
+[2018.07.09-04.46.06:680][241]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009a7c3480, Size=32, Default__testlevel_C Function /Game/2DSideScrollerBP/Maps/testlevel.testlevel_C:ExecuteUbergraph_testlevel
+[2018.07.09-04.46.06:839][241]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009b6baba8, Size=4
+[2018.07.09-04.46.12:177][534]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.07.09-04.46.12:318][534]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000722aae80, Size=576
+[2018.07.09-04.46.12:318][534]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008d81e700, Size=576, 2DSideScrollerCharacter_C_25 Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_73:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.46.12:344][534]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000502bf100, Size=576, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.09-04.46.18:367][851]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.46.18:413][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.18:413][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.46.18:413][851]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:46:18)
+[2018.07.09-04.46.18:416][851]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.46.18:427][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010684s)
+[2018.07.09-04.46.18:428][851]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.46.18:428][851]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2018.07.09-04.46.18:428][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.012044s)
+[2018.07.09-04.46.18:462][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008d81e700, Size=576
+[2018.07.09-04.46.18:466][851]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.46.18:477][851]LogInit: FAudioDevice initialized.
+[2018.07.09-04.46.18:513][851]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.18:517][851]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.46.18
+[2018.07.09-04.46.18:518][851]LogWorld: Bringing up level for play took: 0.004538
+[2018.07.09-04.46.18:521][851]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel 0,533
+[2018.07.09-04.46.18:522][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.18:810][867]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.46.18:810][867]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.46.21:478][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.23:291][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.23:359][ 90]LogNet: Browse: /Game/SpriteMain/Menulevel
+[2018.07.09-04.46.23:359][ 90]LogLoad: LoadMap: /Game/SpriteMain/Menulevel
+[2018.07.09-04.46.23:439][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000072dc98a0, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.46.23:441][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000072dc98a0, Size=24
+[2018.07.09-04.46.23:441][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000072dc98a0, Size=24, Default__Menulevel_C Function /Engine/Transient.REINST_Menulevel_C_75:ExecuteUbergraph_Menulevel
+[2018.07.09-04.46.23:443][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000072dc8670, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.46.23:454][ 90]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.46.23:455][ 90]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.23:456][ 90]LogWorld: Bringing World /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2018.07.09-08.46.23
+[2018.07.09-04.46.23:457][ 90]LogWorld: Bringing up level for play took: 0.001276
+[2018.07.09-04.46.23:457][ 90]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.09-04.46.23:460][ 90]LogLoad: Took 0.099129 seconds to LoadMap(/Game/SpriteMain/Menulevel)
+[2018.07.09-04.46.30:504][512]LogNet: Browse: /Game/2DSideScrollerBP/Maps/testlevel
+[2018.07.09-04.46.30:504][512]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/testlevel
+[2018.07.09-04.46.30:541][512]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000072dc8670, Size=24
+[2018.07.09-04.46.30:541][512]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000072dc98a0, Size=24
+[2018.07.09-04.46.30:543][512]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.46.30:553][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010140s)
+[2018.07.09-04.46.30:554][512]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.46.30:554][512]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.07.09-04.46.30:554][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.011390s)
+[2018.07.09-04.46.30:554][512]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.30:558][512]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.46.30
+[2018.07.09-04.46.30:559][512]LogWorld: Bringing up level for play took: 0.004054
+[2018.07.09-04.46.30:562][512]LogLoad: Took 0.057483 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel)
+[2018.07.09-04.46.30:954][535]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.46.30:954][535]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.46.31:924][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.32:936][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.36:475][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.36:531][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.37:766][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.37:883][852]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.46.37:928][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.37:928][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.46.37:928][852]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:46:37)
+[2018.07.09-04.46.37:930][852]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.46.37:940][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009802s)
+[2018.07.09-04.46.37:941][852]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.46.37:941][852]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.07.09-04.46.37:941][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.010955s)
+[2018.07.09-04.46.37:976][852]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.46.37:987][852]LogInit: FAudioDevice initialized.
+[2018.07.09-04.46.38:021][852]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.38:025][852]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.46.38
+[2018.07.09-04.46.38:026][852]LogWorld: Bringing up level for play took: 0.003979
+[2018.07.09-04.46.38:028][852]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel 0,04
+[2018.07.09-04.46.38:029][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.38:327][868]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.46.38:327][868]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.46.40:785][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.41:621][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.44:849][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.44:903][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.46:110][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.46:184][262]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.46.46:234][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.46:234][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.46.46:234][262]PIE: New page: PIE session: testlevel (9 июля 2018 г., 12:46:46)
+[2018.07.09-04.46.46:235][262]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.46.46:245][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010470s)
+[2018.07.09-04.46.46:246][262]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.46.46:247][262]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2018.07.09-04.46.46:247][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.011852s)
+[2018.07.09-04.46.46:283][262]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.46.46:294][262]LogInit: FAudioDevice initialized.
+[2018.07.09-04.46.46:327][262]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.46:331][262]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.46.46
+[2018.07.09-04.46.46:332][262]LogWorld: Bringing up level for play took: 0.004172
+[2018.07.09-04.46.46:335][262]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel 0,346
+[2018.07.09-04.46.46:335][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.46.46:633][277]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.46.46:633][277]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.46.49:350][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.50:684][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-04.46.52:525][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.46.52:603][599]LogNet: Browse: /Game/SpriteMain/Menulevel
+[2018.07.09-04.46.52:603][599]LogLoad: LoadMap: /Game/SpriteMain/Menulevel
+[2018.07.09-04.46.52:675][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009a4c54c8, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.46.52:677][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009a4c54c8, Size=24
+[2018.07.09-04.46.52:677][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009a4c54c8, Size=24, Default__Menulevel_C Function /Engine/Transient.REINST_Menulevel_C_77:ExecuteUbergraph_Menulevel
+[2018.07.09-04.46.52:679][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009a4c7f40, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.46.52:689][599]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.46.52:689][599]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.52:690][599]LogWorld: Bringing World /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2018.07.09-08.46.52
+[2018.07.09-04.46.52:691][599]LogWorld: Bringing up level for play took: 0.000904
+[2018.07.09-04.46.52:691][599]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.09-04.46.52:694][599]LogLoad: Took 0.090928 seconds to LoadMap(/Game/SpriteMain/Menulevel)
+[2018.07.09-04.46.53:667][657]LogNet: Browse: /Game/2DSideScrollerBP/Maps/testlevel
+[2018.07.09-04.46.53:667][657]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/testlevel
+[2018.07.09-04.46.53:702][657]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009a4c7f40, Size=24
+[2018.07.09-04.46.53:702][657]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009a4c54c8, Size=24
+[2018.07.09-04.46.53:704][657]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel
+[2018.07.09-04.46.53:714][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009711s)
+[2018.07.09-04.46.53:714][657]LogAIModule: Creating AISystem for world testlevel
+[2018.07.09-04.46.53:715][657]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2018.07.09-04.46.53:715][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/testlevel.testlevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel (0.011224s)
+[2018.07.09-04.46.53:715][657]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.46.53:719][657]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel up for play (max tick rate 60) at 2018.07.09-08.46.53
+[2018.07.09-04.46.53:719][657]LogWorld: Bringing up level for play took: 0.003593
+[2018.07.09-04.46.53:722][657]LogLoad: Took 0.054919 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel)
+[2018.07.09-04.46.54:123][680]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	TAGAIENEMY_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_testlevel.testlevel:PersistentLevel.TAGAIENEMY_128
+	Function /Game/Blueprints/EnemySword/TAGAIENEMY.TAGAIENEMY_C:ExecuteUbergraph_TAGAIENEMY:0285
+[2018.07.09-04.46.54:123][680]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_Event_Other from function: 'ExecuteUbergraph_TAGAIENEMY' from node: Branch in graph: EventGraph in object: TAGAIENEMY with description: Accessed None trying to read property K2Node_Event_Other
+[2018.07.09-04.46.55:220][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.47.03:511][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.47.03:574][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/testlevel.testlevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/testlevel.testlevel:PersistentLevel.testlevel'
+[2018.07.09-04.47.06:991][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.47.27:145][418]LogEditorViewport: Clicking Background
+[2018.07.09-04.47.29:196][524]LogEditorViewport: Clicking on Actor (LMB): TAGAIENEMY_C (TAGAIENEMY)
+[2018.07.09-04.47.31:664][622]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.07.09-04.47.33:371][695]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.09-04.47.34:499][756]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.09-04.47.37:156][891]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.09-04.47.39:389][ 15]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.09-04.47.41:508][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-04.47.41:681][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/testlevel" FILE="../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/testlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-04.47.41:784][135]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009a7c3480, Size=32
+[2018.07.09-04.47.41:784][135]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000094d63640, Size=32, Default__testlevel_C Function /Engine/Transient.REINST_testlevel_C_81:ExecuteUbergraph_testlevel
+[2018.07.09-04.47.41:787][135]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000094d62340, Size=32, Default__testlevel_C Function /Game/2DSideScrollerBP/Maps/testlevel.testlevel_C:ExecuteUbergraph_testlevel
+[2018.07.09-04.47.42:051][135]LogSavePackage: Save=272.90ms
+[2018.07.09-04.47.42:051][135]LogSavePackage: Moving '../../../../../../Ue4projects/GUKKI/Saved/testlevel272892B749F6C665C7E7D4ADA3C3851D.tmp' to '../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/testlevel.umap'
+[2018.07.09-04.47.42:053][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Maps/testlevel.umap
+[2018.07.09-04.47.53:231][710]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000736ab2b0, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.47.53:233][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000736ab2b0, Size=24
+[2018.07.09-04.47.53:233][710]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000736ab2b0, Size=24, Default__Menulevel_C Function /Engine/Transient.REINST_Menulevel_C_83:ExecuteUbergraph_Menulevel
+[2018.07.09-04.47.53:235][710]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000736a95d0, Size=24, Default__Menulevel_C Function /Game/SpriteMain/Menulevel.Menulevel_C:ExecuteUbergraph_Menulevel
+[2018.07.09-04.47.53:241][710]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.47.53:281][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008e0dd7c0, Size=32
+[2018.07.09-04.47.53:281][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000094d63640, Size=32
+[2018.07.09-04.47.53:281][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000736ab2b0, Size=24
+[2018.07.09-04.47.54:784][710]LogSlate: Window 'Save Content' being destroyed
+[2018.07.09-04.47.55:019][710]LogSavePackage: Save=173.48ms
+[2018.07.09-04.47.55:019][710]LogSavePackage: Moving '../../../../../../Ue4projects/GUKKI/Saved/2DSideScrollerCharacterD6BF3FB0431322D25E98668763BABA09.tmp' to '../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.07.09-04.47.55:021][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Ue4projects/GUKKI/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.07.09-04.47.55:021][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpriteMain/widgetESC" FILE="../../../../../../Ue4projects/GUKKI/Content/SpriteMain/widgetESC.uasset" SILENT=true
+[2018.07.09-04.47.55:096][710]LogSavePackage: Save=23.12ms
+[2018.07.09-04.47.55:096][710]LogSavePackage: Moving '../../../../../../Ue4projects/GUKKI/Saved/widgetESC7A3525E44E9CD92E83F06DA6689F56D9.tmp' to '../../../../../../Ue4projects/GUKKI/Content/SpriteMain/widgetESC.uasset'
+[2018.07.09-04.47.55:097][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Ue4projects/GUKKI/Content/SpriteMain/widgetESC.uasset
+[2018.07.09-04.47.55:098][710]Cmd: MAP LOAD FILE="../../../../../../Ue4projects/GUKKI/Content/SpriteMain/Menulevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.09-04.47.55:099][710]LightingResults: New page: Lighting Build
+[2018.07.09-04.47.55:100][710]LoadErrors: New page: Loading map: Menulevel.umap
+[2018.07.09-04.47.55:176][710]MapCheck: New page: Map Check
+[2018.07.09-04.47.55:177][710]LightingResults: New page: Lighting Build
+[2018.07.09-04.47.55:213][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000094d62340, Size=32
+[2018.07.09-04.47.55:221][710]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.09-04.47.55:319][710]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.09-04.47.55:395][710]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76,554ms to complete.
+[2018.07.09-04.47.55:396][710]LogFileHelpers: Loading map 'Menulevel' took 0.298
+[2018.07.09-04.47.59:930][979]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.09-04.47.59:975][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpriteMain/Menulevel.Menulevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpriteMain/Menulevel.Menulevel:PersistentLevel.Menulevel' with GeneratedClass '/Game/SpriteMain/Menulevel.Menulevel_C' with ClassGeneratedBy '/Game/SpriteMain/Menulevel.Menulevel:PersistentLevel.Menulevel'
+[2018.07.09-04.47.59:975][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-04.47.59:975][979]PIE: New page: PIE session: Menulevel (9 июля 2018 г., 12:47:59)
+[2018.07.09-04.47.59:977][979]LogPlayLevel: Creating play world package: /Game/SpriteMain/UEDPIE_0_Menulevel
+[2018.07.09-04.47.59:979][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001179s)
+[2018.07.09-04.47.59:979][979]LogAIModule: Creating AISystem for world Menulevel
+[2018.07.09-04.47.59:980][979]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.07.09-04.47.59:980][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpriteMain/Menulevel.Menulevel to /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel (0.002306s)
+[2018.07.09-04.48.00:012][979]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-04.48.00:023][979]LogInit: FAudioDevice initialized.
+[2018.07.09-04.48.00:053][979]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.09-04.48.00:054][979]LogWorld: Bringing World /Game/SpriteMain/UEDPIE_0_Menulevel.Menulevel up for play (max tick rate 60) at 2018.07.09-08.48.00
+[2018.07.09-04.48.00:054][979]LogWorld: Bringing up level for play took: 0.000596
+[2018.07.09-04.48.00:057][979]PIE: Play in editor start time for /Game/SpriteMain/UEDPIE_0_Menulevel 0,068
+[2018.07.09-04.48.00:057][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpriteMain/Menulevel.Menulevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpriteMain/Menulevel.Menulevel:PersistentLevel.Menulevel' with GeneratedClass '/Game/SpriteMain/Menulevel.Menulevel_C' with ClassGeneratedBy '/Game/SpriteMain/Menulevel.Menulevel:PersistentLevel.Menulevel'
+[2018.07.09-04.48.04:239][229]LogNet: Browse: /Game/2DSideScrollerBP/Maps/testlevel
+[2018.07.09-04.48.04:239][229]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/testlevel
+[2018.07.09-04.48.04:510][229]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004ba43e80, Size=32, Default__testlevel_C Function /Game/2DSideScrollerBP/Maps/testlevel.testlevel_C:ExecuteUbergraph_testlevel
+[2018.07.09-04.48.04:512][229]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004ba43e80, Size=32
+[2018.07.09-04.48.04:512][229]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004ba43e80, Size=32, Default__testlevel_C Function /Engine/Transient.REINST_testlevel_C_85:ExecuteUbergraph_testlevel
+[2018.07.09-04.48.04:514][229]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009a7c3360, Size=32, Default__testlevel_C Function /Game/2DSideScrollerBP/Maps/testlevel.testlevel_C:ExecuteUbergraph_testlevel
+[2018.07.09-04.48.05:444][229]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.853 s
+[2018.07.09-04.48.05:444][229]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: 
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: 
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: Stack: 
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000EA4EB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000EA24AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000EA25ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000D99BBBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000D998D28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000E9A56F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000E9D9C010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000E9DB312B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000E9DB2544 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000DEB5917A UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000DEB0C788 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000DEB7A4A0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000E10ECD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x00000000E1989626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x000000003FFE5EAC UE4Editor.exe!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x000000003FFF6BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x000000003FFF6C4A UE4Editor.exe!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x0000000040004177 UE4Editor.exe!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x0000000040005B87 UE4Editor.exe!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x0000000076CE59CD kernel32.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: [Callstack] 0x0000000076E1A561 ntdll.dll!UnknownFunction []
+[2018.07.09-04.48.05:445][229]LogOutputDevice: Error: 
+[2018.07.09-04.48.05:450][229]LogStats:                SubmitErrorReport -  0.000 s
